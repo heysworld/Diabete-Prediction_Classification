@@ -1,1 +1,1 @@
-# Diabete-Prediction_Classification
+# Diabetes-Prediction_Classification
