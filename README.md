@@ -1,1 +1,1 @@
-# Fashion-MNIST_Basic-ANN
+# Diabete-Prediction_Classification
